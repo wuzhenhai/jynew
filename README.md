@@ -43,13 +43,14 @@
 * 你可以查阅[金庸群侠传3d重制版开发文档](https://github.com/jynew/jynew/wiki)来学习本项目的开发细节，其中包括详细的如何配置启动游戏、脚本修改、系统编程等一系列项目细节。
 * 可通过查看[金庸群侠传3d重制版视频操作教程](https://github.com/jynew/jynew/wiki/%E9%87%91%E5%BA%B8%E7%BE%A4%E4%BE%A0%E4%BC%A03d%E9%87%8D%E5%88%B6%E7%89%88%E8%A7%86%E9%A2%91%E6%93%8D%E4%BD%9C%E6%95%99%E7%A8%8B)来学习如何搭建游戏场景、添加和配置技能动作等。
 * 本项目非常欢迎社区进行贡献，请阅读[社区贡献指南](https://github.com/jynew/jynew/blob/main/CONTRIBUTING.md)查看具体规则和流程。
+* 本项目美术原始文件位于[jynew/jynew_art](https://github.com/jynew/jynew_art)，你可以下载3DMAX等原始文件查看。但请注意：此项目内容同样遵守社区协议。
 
 ## 授权声明
 
 * 本项目素材一部分为社区自制，一部分为互联网上取得
 * 本项目遵循MIT协议，但[金庸群侠传3D重制版社区素材协议](https://github.com/jynew/jynew/tree/main/COMMUNITY_LICENSE_FOR_JYX2)描述了若干种在本项目中覆盖MIT协议情况，请仔细阅读
 * 项目中所包含外部插件源代码、资源和链接库等，如希望在其他场景使用，请务必确认符合其本身授权规范
-
+* 不遵守授权协议的产品和企业、个人都将被[耻辱榜](https://github.com/jynew/jynew/wiki/%E8%80%BB%E8%BE%B1%E6%A6%9C)记录在案
 
 ## 项目结构示意图
 
@@ -58,7 +59,7 @@
 
 ## 引用项目
 
-[xlua](https://github.com/Tencent/xLua)
+[xlua](https://github.com/Tencent/xLua), [xNode](https://github.com/Siccity/xNode)
 
 ## 参考项目
 
